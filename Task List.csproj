@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>String_Demo</StartupObject>
+    <StartupObject>Task_List.Switch_Statement</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
